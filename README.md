@@ -1,4 +1,4 @@
-README.md for CISC3003-Individual-Project
+<h1><b>README.md for CISC3003-Individual-Project</b></h1>
 Overview:
 The Rental Property Management System is a web-based application aimed at simplifying the process of landlords uploading their properties for potential tenants to view. The system facilitates landlords in registering, logging in, and releasing their vacant properties with detailed information. Tenants can then search for available properties based on various criteria like location, rent, type, etc. This walkthrough example brief will provide an overview of the project's functionalities, architecture, technologies used, and potential future enhancements.
 
